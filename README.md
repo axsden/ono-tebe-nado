@@ -35,4 +35,4 @@ ono-tebe-nado/
 
 ## Демо
 
-[https://axsden.github.io/ono-tebe-nado/](https://axsden.github.io/ono-tebe-nado/)
+[https://axsden.github.io/ono-tebe-nado/](https://axsden.github.io/ono-tebe-nado-fd/)
